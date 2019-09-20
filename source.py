@@ -1,7 +1,10 @@
 # from https://www.cnblogs.com/shuimohei/p/11345458.html
 # 目标：爬取豆瓣电影排行榜TOP250的电影信息
 # 信息包括：电影名字，上映时间，主演，评分，导演，一句话评价
-# 解析用学过的几种方法都实验一下①正则表达式.②BeautifulSoup③xpath
+# 解析用学过的几种方法都实验一下①正则表达式:
+#Beautiful
+#Soup
+#xpath
 import requests
 import re  # 正则表达式
 import json
